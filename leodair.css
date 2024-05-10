@@ -11,8 +11,8 @@ nav {
 
 nav ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    margin: 20;
+    padding: 20;
 }
 
 nav ul li {
@@ -23,7 +23,7 @@ nav ul li {
 nav ul li a {
     text-decoration: none;
     color: #ffffff;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .carousel {
@@ -91,15 +91,15 @@ section {
 body {
     background-image: url("");
 }
-.href {
-    
-}
 .botam-item{
     width: 1000px;
-    overflow: ;
+    overflow: 30px; ;
     margin-top: 80px;
 }
-.botam-seta img{
-    height:150px
-    width:20px
+.seta img{
+    height:1000px;
+    width:300px;
+}
+.container {
+    text-alarguin
 }
